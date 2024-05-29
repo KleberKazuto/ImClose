@@ -52,6 +52,9 @@ Para iniciar o aplicativo, use o seguinte comando:
 ```bash
 npx expo start
 ```
+Isso abrirá a interface do Expo no seu navegador.
+Você pode escanear o QR code usando o aplicativo [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US) no seu dispositivo móvel ou rodar o app no emulador.
+Lembre-se de ter instalado o [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US) no seu SmartPhone Android ou utilize o [Expo Go]([https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US](https://apps.apple.com/br/app/expo-go/id982107779)) no seu Iphone.
 
 ## Aviso de Configuração Adicional
 
