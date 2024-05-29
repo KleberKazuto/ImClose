@@ -20,7 +20,7 @@ const EsqueciASenha = () => {
     
     try {
       await sendPasswordResetEmail(auth, email);
-      Alert.alert('Sucesso', 'Email de redefinição de senha enviado.');
+      Alert.alert('Sucesso', 'Email de redefinição de senha enviado para o email cadastrado.');
       navigation.navigate("Login");
     } catch (error) {
       console.error('Erro ao enviar email de redefinição de senha', error);

@@ -18,7 +18,7 @@ import Perfil from '../assets/Perfil.png';
 
     {
       title: 'Configurações',
-      icons: 'cogs',
+      icon: 'cogs',
       action: () => alert('Configurar')
     },
 
@@ -58,6 +58,7 @@ import Perfil from '../assets/Perfil.png';
     height: height * 0.15, // 40% da altura da tela
     resizeMode: 'contain'
   },
+  
    popup: {
      borderRadius: 8,
      borderColor: '#333',
